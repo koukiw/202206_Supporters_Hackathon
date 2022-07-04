@@ -32,3 +32,13 @@ dockerコンテナ起動
 ```python:docker.py
 docker-compose start
 ```
+
+作成サイト
+
+https://esmaker-s-computing-lab.herokuapp.com/
+
+説明資料
+
+https://docs.google.com/presentation/d/16frh77sTcmW34-_5pFlaRbNFOBeQ8Tfuv43_wfsWKuU/edit#slide=id.g134676530a8_2_12
+
+
